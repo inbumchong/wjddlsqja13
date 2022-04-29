@@ -25,12 +25,6 @@
 - Time-series Forecasting
 - Anomaly Detection
   
-### Highlights:
-  
-1. [AI] MPP: Cryptocurrency Price Fluctuation Using Neural Network
-2. [BA] Telecom Churn Rate Analysis
-3. [DL] Transformer Implementation
-4. Coming Soon ...
 
 
 **Thanks!** <br>
